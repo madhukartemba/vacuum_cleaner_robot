@@ -5,12 +5,18 @@
 This is a 3D printed vacuum cleaner which has all the features that the commercial one has including auto return to home for charging and mapping of the room. The robot's charging dock is also a smart charging dock which guides the robot in alignment with the itself using custom IR codes. It is also internet connected and can be controlled using a mobile app.
 
 It has a powerful BLDC motor and a 3D printed impeller which creates a lot of suction. The air passes through a HEPA filter to remove all the dust particles.
+
 ![20201030_221527](https://user-images.githubusercontent.com/97425422/177093633-e26cd1f0-eaa9-4222-bb79-aa025270d79a.jpg)
+
+![20201030_221619](https://user-images.githubusercontent.com/97425422/177096414-38cf4fa1-a992-4213-8160-63688dcbdf95.jpg)
+
+The purified air from the HEPA filter is vented out the back and through the motor and other components cooling them in the process:
+
+![20201030_222138](https://user-images.githubusercontent.com/97425422/177096383-12f98822-6977-4920-8143-06d871806819.jpg)
 
 The dust box can be removed from the robot for cleaning and HEPA filter replacement:
 
 ![20201030_222354](https://user-images.githubusercontent.com/97425422/177094457-b6387304-d7f8-4b9f-a43a-2870d7cc9906.jpg)
-
 
 It also has a rotating cleaning brush below the robot to scrub the dust off the floor!
 
