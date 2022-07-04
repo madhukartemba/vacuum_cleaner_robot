@@ -7,7 +7,13 @@ This is a 3D printed vacuum cleaner which has all the features that the commerci
 It has a powerful BLDC motor and a 3D printed impeller which creates a lot of suction. The air passes through a HEPA filter to remove all the dust particles.
 ![20201030_221527](https://user-images.githubusercontent.com/97425422/177093633-e26cd1f0-eaa9-4222-bb79-aa025270d79a.jpg)
 
-It also has a rotating cleaning brush below the robot to scrub the dust off the floor!
+The dust box can be removed from the robot for cleaning and HEPA filter replacement:
+
+![20201030_222354](https://user-images.githubusercontent.com/97425422/177094457-b6387304-d7f8-4b9f-a43a-2870d7cc9906.jpg)
+
+
+It also has a rotating cleaning brush below the robot to scrub the dust off the floor! The wheels of the robot are driven by very precise stepper motors and are also spring loaded which makes them adjust to the surface height variations of the floor and keep the robot on the floor!
+
 ![20201030_221308](https://user-images.githubusercontent.com/97425422/177093610-c3d2bada-a3cf-4112-bfd4-5ddefc781b57.jpg)
 
 It has a big front bumper which has a custom switch making it extremely senstive to bumps. It also has 5 infrared sensors in the front which enable the robot to detect obstacles from a distance and they also help in finding and aligning with the charging base.
