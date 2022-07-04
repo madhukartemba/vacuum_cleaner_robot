@@ -85,3 +85,10 @@ Two speakers
 RGB led
 
 
+#Internal View:
+
+![20201226_121211](https://user-images.githubusercontent.com/97425422/177097855-e402ceb5-7be5-4969-b1e5-5e59ffb152d1.jpg)
+
+![20201226_121151](https://user-images.githubusercontent.com/97425422/177097881-52fcb38c-2949-4584-8b37-dbf014810712.jpg)
+
+
