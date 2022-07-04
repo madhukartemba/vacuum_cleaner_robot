@@ -12,9 +12,20 @@ The dust box can be removed from the robot for cleaning and HEPA filter replacem
 ![20201030_222354](https://user-images.githubusercontent.com/97425422/177094457-b6387304-d7f8-4b9f-a43a-2870d7cc9906.jpg)
 
 
-It also has a rotating cleaning brush below the robot to scrub the dust off the floor! The wheels of the robot are driven by very precise stepper motors and are also spring loaded which makes them adjust to the surface height variations of the floor and keep the robot on the floor!
+It also has a rotating cleaning brush below the robot to scrub the dust off the floor!
 
 ![20201030_221308](https://user-images.githubusercontent.com/97425422/177093610-c3d2bada-a3cf-4112-bfd4-5ddefc781b57.jpg)
+
+The wheels of the robot are driven by very precise stepper motors and are also spring loaded which makes them adjust to the surface height variations of the floor and keep the robot on the floor!
+
+![20201027_220718](https://user-images.githubusercontent.com/97425422/177095096-06a7a8d0-dc7c-4974-9d98-135319ed0564.jpg)
+
+![20201027_220726](https://user-images.githubusercontent.com/97425422/177095085-66bce9f0-d0be-437a-8bbf-c25af81b5cbe.jpg)
+
+![20201027_220824](https://user-images.githubusercontent.com/97425422/177095051-ec2ca528-e21c-4df8-99ac-6782c3458112.jpg)
+
+![20201027_220851](https://user-images.githubusercontent.com/97425422/177095061-808b142f-60aa-4bf3-adb4-5b024f64e4e3.jpg)
+
 
 It has a big front bumper which has a custom switch making it extremely senstive to bumps. It also has 5 infrared sensors in the front which enable the robot to detect obstacles from a distance and they also help in finding and aligning with the charging base.
 
@@ -28,6 +39,43 @@ The parts were designed in Fusion 360 software and 3D printed using Creality End
 
 ![version2](https://user-images.githubusercontent.com/97425422/177094253-efb0e7ca-d304-44b6-9749-d2c392a4ccf2.PNG)
 
-This is the second version of the vacuum cleaner robot, I have also made another vacuum cleaner robot which mops the floor. It has an built-in water reservoir and a mop cloth which cleans the floor.
+
+The hardware components used for version 2 are:
+
+ESP 32
+
+28-BYJ stepper motors
+
+Stepper motor drivers
+
+Connecting wire
+
+Rotating brush
+
+HEPA filter
+
+Geared DC motors
+
+Latching switch
+
+12V DC motor
+
+Five infrared obstacle sensors
+
+Two push buttons
+
+Three 18650 li-ion batteries
+
+Battery management system (3S)
+
+Resistors, transistors and diodes
+
+5V buck converter
+
+PAM8403 amplifier
+
+Two speakers
+
+RGB led
 
 
