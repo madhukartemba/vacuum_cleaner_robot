@@ -1,5 +1,7 @@
 # vacuum_cleaner_robot
 
+![Video](https://youtu.be/siy_URgonHc)
+
 ![20201027_222152](https://user-images.githubusercontent.com/97425422/177093066-a7bcce14-1cc6-42c9-81d5-1d51cd86204e.jpg)
 
 This is a 3D printed vacuum cleaner which has all the features that the commercial one has including auto return to home for charging and mapping of the room. The robot's charging dock is also a smart charging dock which guides the robot in alignment with the itself using custom IR codes. It is also internet connected and can be controlled using a mobile app.
